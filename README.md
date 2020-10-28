@@ -9,5 +9,5 @@ For a full list of metric definitions, see the Grants Data Dictionary (WIP).
 # Usage
 1. Pull Fluxx report data
 2. Clone this repo onto one of the [SWAP](https://wikitech.wikimedia.org/wiki/SWAP) hosts.
-3. Add Fluxx report data to the folder where the metrics code resides
+3. Add Fluxx report data to the data folder 
 4. Run the notebook
